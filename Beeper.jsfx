@@ -1,4 +1,4 @@
-desc: Mix Protection Beeper
+desc: Beeper
 
 slider1:interval=10<1,60,1>Time between beeps (seconds)
 slider2:duration=1<0.1,5,0.1>Beep duration (seconds)
